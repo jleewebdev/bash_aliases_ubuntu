@@ -3,3 +3,4 @@ alias c='clear'
 alias wd='cd /home/josh/Desktop/web_dev/'
 alias subl=/opt/sublime_text/sublime_text
 alias subl_snippets='cd ~/.config/sublime-text-3/Packages/User/snippets'
+alias edit_bash_file='subl /home/josh/.bashrc'
